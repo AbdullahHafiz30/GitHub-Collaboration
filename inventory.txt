@@ -1,2 +1,3 @@
 Product: Tablest, Stock:10
 text from second branch
+added from develop
