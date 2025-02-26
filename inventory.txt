@@ -1,1 +1,1 @@
-product: Tablet, Stock:10
+Product: Tablest, Stock:10
