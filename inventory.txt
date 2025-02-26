@@ -1,5 +1,1 @@
-Product: phone case, Stock:5
-Product: phone, Stock:15
-Product: powerbank, Stock:25
-Product: tablet, Stock:30
-Product: phone case, Stock:5
+Product: phone, Stock:50
