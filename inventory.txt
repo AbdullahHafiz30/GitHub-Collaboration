@@ -1,1 +1,2 @@
 Product: Tablest, Stock:10
+text from second branch
